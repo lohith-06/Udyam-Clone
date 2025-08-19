@@ -9,7 +9,7 @@ Frontend (Vercel): https://udyam-registration-alpha.vercel.app/
 
 Backend (Render): https://udyam-registration-1.onrender.com/
 
-GitHub Repository: https://github.com/215N1F00A1/Udyam-Registration
+GitHub Repository: https://github.com/lohith-06/Udyam-Clone.git
 
 🚀 Features
 
@@ -46,7 +46,7 @@ Render (Backend)
 
 ⚙️ Installation & Setup
 1. Clone Repository
-git clone https://github.com/215N1F00A1/Udyam-Registration.git
+git clone https://github.com/lohith-06/Udyam-Clone.git
 cd Udyam-Registration
 
 2. Backend Setup
@@ -90,8 +90,8 @@ Udyam-Registration/
 
 👤 Author
 
-Name: Sowjanya Vangala
+Name:Lohith Lakkakula
 
-Email: sowjanyasowjanya040@gmail.com
+Email: lohithlakkakula06@gmail.com
 
-GitHub: 215N1F00A1
+GitHub: https://github.com/lohith-06/
